@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #dedede;
+    font-family: "\5FAE\8F6F\96C5\9ED1";
+}
+#top {
+    background-color: #222222;
+    height: 80px;
+}
+#daohang{
+	float: right;
+}
+#daohang li{
+	float: left;
+	width: 100px;
+    line-height: 70px;
+}
+article{
+	background-color:#FFFFFF;
+	padding: 20px;
+	margin:20px;
+
+}
+
+h2,address,time{
+	color: gray;
+}
+
+th{background-color: #333333;
+color: #FFFFFF;}
+
+.zongji{
+	background-color: gray;
+	color: #FFFFFF;
+}
+
+.tishi{
+	color: gray;
+}
+#tijiao {
+    color: #e8ecef;
+    font-size: 15px;
+    background-color: #3355D0;
+    text-align: center;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    display: block;
+}
+
+footer{
+	width: 100%;
+	height: 50px;
+	background-color:#000000;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-align: center;
+
