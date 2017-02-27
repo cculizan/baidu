@@ -1,0 +1,37 @@
+#ccu{
+	background-color: #eee;
+	border: solid;
+	border-color: #999;
+	padding: 20px;
+	margin: 20px;
+	margin: 0 auto;
+}
+#left{
+	padding: 20px;
+	width: 200px;
+	height: 100px;
+	background-color: #fff;
+	border: solid;
+	border-color: #999;
+
+}
+.tu1{
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+.yunyi{
+	line-height: 100px;
+}
+#right{
+	float: right;
+	background-color: #fff;
+	width: 120px;
+	border: solid;
+	border-color: #999;
+
+}
+.img{
+	width: 80px;
+	height: 80px;
+}
