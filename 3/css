@@ -5,8 +5,10 @@
 	padding: 20px;
 	margin: 20px;
 	margin: 0 auto;
+	overflow: auto;
 }
 #left{
+	float: left;
 	padding: 20px;
 	width: 200px;
 	height: 100px;
@@ -27,11 +29,22 @@
 	float: right;
 	background-color: #fff;
 	width: 120px;
+	height: auto;
 	border: solid;
 	border-color: #999;
+	
 
 }
 .img{
 	width: 80px;
 	height: 80px;
+	margin: 20px;
+}
+#middle{
+	background-color: #fff;
+	width: auto;
+	height: auto;
+	margin: 0px 150px 0 260px;
+	border: solid;
+	border-color: #999;
 }
