@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>李瓒的第一次作业</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css">
+</head>
+
+<body>
+<header id="top">
+	<img src="http://ife.baidu.com/2017/asset/common/img/logo_a3b4064.png">
+	<nav id="daohang">
+	<ul>
+		<li><a href="#tuibian">期待蜕变</a></li>
+		<li><a href="#jiguang">介绍极光</a></li>
+		<li><a href="WIKIPEDIA">WIKIPEDIA</a></li>
+		<li><a href="yijibiaoti">一级标题</a></li>
+	</ul>
+	</nav>
+</header>
+
+<div id="celan">
+<h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+<h3>侧栏注册窗口标题</h3>
+
+<form>
+	<label>请输入邮箱地址</label>
+	<input type="text" name="email">
+</form>
+<p class="tishi">邮箱地址请按要求格式输入</p>
+<form>
+	<label>请输入密码</label>
+	<input type="password" name="password1"> </br>
+	<label>请重复输入密码</label>
+	<input type="password" name="password2">
+</form>
+<p class="tishi">密码请为6-16位英文数字</p>
+
+<form>
+	<label>性别</label>
+	<input type="radio" name="sex" checked="checked" >男
+	<input type="radio" name="sex" >女  </br>
+	<label>城市：</label> 
+			<select name=""> 
+				<option value="北京">北京</option> 
+				<option value="成都">成都</option> 
+				<option value="长春">长春</option> 
+			</select>  </br>
+		<label>爱好：</label> 
+			<input type="checkbox" name="checkbox1" value="checkbox">篮球
+			<input type="checkbox" name="checkbox2" value="checkbox">排球
+			<input type="checkbox" name="checkbox3" value="checkbox">足球  </br>
+			<textarea name="MSG" cols=30 rows=2>
+				这是一个多行输入框，输入你的个人描述
+			</textarea>
+		<button id="tijiao" type="submit">确认提交</button>
+</form>
+<div id="fudong"></div>
+</div>
+
+
+<article id="tuibian">
+<h1>期待蜕变</h1>
+<ul>
+	<li><a href="http://ife.baidu.com/">百度前端技术学院</a></li>
+	<li><a href="https://www.zhihu.com/">知乎</a></li>
+	<li><a href="https://github.com/">github</a></li>
+	<li><a href="http://ife.baidu.com/college/detail/id/9">小薇学院</a></li>
+</ul>
+</article>
+
+<article id="jiguang">
+<h1>介绍一下极光吧（文章一级标题）</h1>
+<h2>想着总有一天要去看看(文章二级标题）</h2>
+<address class="hangnei">李瓒</address> <time class="hangnei">2017.2.25</time>
+
+<p>光是出现于星球的高磁纬地区上空，是一种绚丽多彩的发光现象。极光是由于太阳带电粒子流（太阳风）进入地球磁场，在地球南北两极附近地区的高空，夜间出现的灿烂美丽的光辉。在南极被称为南极光，在北极被称为北极光。地球的极光是来自地球磁层或太阳的高能带电粒子流（太阳风）使高层大气分子或原子激发（或电离）而产生。
+极光常常出现于纬度靠近地磁极地区上空，一般呈带状、弧状、幕状、放射状，<a href="http://ife.baidu.com/"><span>大前端</span></a>这些形状有时稳定有时作连续性变化。<b>粗体</b>极光产生的条件有三个：大气、磁场、高能带电粒子。这三者缺一不可。
+极光不只在地球上出现，太阳系内的其他一些具有磁场的行星上也有极光。</p>
+
+<p>
+	根据关于极光分布情况的研究，极光区的形状不是以地磁极为中心的圆环状，而是卵形。<b>粗体</b>极光的光谱线范围约为3100～6700埃，其中最重要的谱线是5577埃的氧原子绿线，称为极光绿线。
+大多数极光出现在地球上空90---130千米处。1959年，一次北极光所测得的高度是160千米，<a href="http://ife.baidu.com/" target="_blank"><span>大前端</span></a>宽度超过4800千米。但有些极光要高得多，高度可达560---1000千米以上。</p>
+</article>
+
+<article id="WIKIPEDIA">
+<h1>From WIKIPEDIA</h1>
+<h2>Aurora</h2>
+<address>李瓒</address><time>2017.2.25</time>
+<p>
+	For other uses, see Aurora (disambiguation), Aurora Australis (disambiguation), and Aurora Borealis (disambiguation).Images of auroras from around the world, including those with rarer red and blue lights.</br>An aurora, sometimes referred to as a polar light or northern light, is a natural light display in the sky, predominantly seen in the high latitude (Arctic and Antarctic) regions.[a] Auroras are produced when the magnetosphere is sufficiently disturbed by the solar wind that the trajectories of charged particles in both solar wind and magnetospheric plasma, mainly in the form of electrons and protons, precipitate them into the upper atmosphere (thermosphere/exosphere), where their energy is lost. The resulting ionization and excitation of atmospheric constituents emits light of varying colour and complexity. <a href="http://ife.baidu.com/"><span>大前端</span></a>The form of the aurora, occurring within bands around both polar regions, is also dependent on the amount of acceleration imparted to the precipitating particles.<b>粗体</b> Precipitating protons generally produce optical emissions as incident hydrogen atoms after gaining electrons from the atmosphere. Proton auroras are usually observed at lower latitudes.
+</p>
+</article>
+
+<article>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Aurora_Borealis_and_Australis_Poster.jpg/600px-Aurora_Borealis_and_Australis_Poster.jpg" width="70%">
+<ul>
+	<li>按照极光观测的电磁波波段，可分为光学极光、无线电极光等。</li>
+	<li>按激光激发粒子类型，可分为电子极光、质子极光等。</li>
+	<li>按照极光发生区域，可分为极盖极光、极光带极光 、中纬极光红弧等</li>
+</ul>
+<p style="font-size: 30px">更多极光图片</p>
+<img src="http://pic1.bbzhi.com/chahuabizhi/2560x1600duosexisecaishijuebizhisi/cartoon_abstract_colors_2560x1600_0902_38092_13.jpg" width="70%" height="300px"><p>极光</p></br>
+<img src="http://pic3.newssc.org/upload/ori/20140504/1399187493059.jpg" width="70%" height="300px"><p>极光</p></br>
+<img src="http://site.sxgov.cn/digest/digest_data/attachement/jpg/site2/20100408/0013d3d3cfa00d27e4e10c.jpg" width="70%" height="300px"><p>极光</p></br>
+<img src="http://img01.sogoucdn.com/app/a/100520093/b1e0d07594f867c4-ce758aa272733e4c-006ce8c459d1dc26ed92d7c1fe6fe3de.jpg" width="70%" height="300px"><p>极光</p></br>
+<img src="http://wuxi.sinaimg.cn/2013/0209/U9324P1474DT20130209133149.jpg" width="70%" height="300px"><p>极光</p></br>
+<img src="http://a1.att.hudong.com/53/70/01200000007181117447045669653.jpg" width="70%" height="300px"><p>极光</p></br>
+</article>
+ 
+ <article id="yijibiaoti">
+<h1>一级标题</h1>
+<h2>二级标题</h2>
+<ol>
+	<li>one</li>
+	<li>two</li>
+	<li>three</li>
+</ol>
+<p>下面是个表格</p>
+<table border='1'>
+	<tr> <th>表头</th><th>表头</th><th>表头</th> </tr>
+	<tr> <td>表内容单元格</td><td>表内容单元格</td><td><a href="http://ife.baidu.com/">操作</a></td> </tr>
+	<tr> <td>表内容单元格</td><td>表内容单元格</td><td><a href="http://ife.baidu.com/">操作</a></td> </tr>
+	<tr> <td>表内容单元格</td><td>表内容单元格</td><td><a href="http://ife.baidu.com/">操作</a></td> </tr>
+	<tr> <td>表内容单元格</td><td>表内容单元格</td><td><a href="http://ife.baidu.com/">操作</a></td> </tr>
+	<tr ><td class="zongji">总计</td><td colspan="2" class="zongji">1000</td></tr>
+</table>
+</article>
+
+
+<footer>
+	<p>版权所有@李瓒</p>
+</footer>
+
+</body>
+</html>
